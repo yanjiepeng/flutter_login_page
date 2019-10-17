@@ -4,7 +4,7 @@ Flutter登录界面ui demo
 根据视频：https://www.youtube.com/watch?v=1Pw_E7T9TXI 编写
 
 ###预览图
-![](https://ftp.bmp.ovh/imgs/2019/10/819759f39d4596c3.png)
+![](https://i.imgur.com/JmNsBBE.png)
 
 ## Getting Started
 
